@@ -1,0 +1,10 @@
+{
+  "name": "pulley-bundler-default",
+  "version": "0.1.0",
+  "description": "Default bundler for Pulley",
+  "main": "lib/index.js",
+  "repository": "git@github.com:joe-damore/pulley-bundler-default.git",
+  "author": "Joe D'Amore <joe@joedamore.me>",
+  "license": "MIT",
+  "private": false
+}
